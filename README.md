@@ -80,8 +80,8 @@ This is a simple **keylogger** application built in Python. It records keystroke
 
 You can stop the keylogger using one of the following methods:
 
-- **🖱️ Key Combination**: If you've set up a key combination (e.g., `Ctrl + Shift + S`), press it to stop logging.
-- **📝 Stop Command File**: Create a `stop.txt` file containing the word `stop` in the same directory as the keylogger. Once the keylogger detects this file, it will stop logging.
+- **🖱️ Key Combination**: Press `Ctrl + Shift + S` to stop logging.
+
 
 
 ## ⚖️Ethical Considerations
