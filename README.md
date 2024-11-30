@@ -14,7 +14,7 @@ This is a simple **keylogger** application built in Python. It records keystroke
 - [📄 License](#license)
 
 
-## ✨ Features
+## ✨Features
 - 📝 **Logs keystrokes with timestamps**: Records every keystroke with the time it was pressed.
 - 💾 **Saves keystrokes in a text file** (`keylog.txt`): All logged keystrokes are stored in a simple text file.
 - 🔄 **Appends new keystrokes on subsequent runs**: The log file keeps growing with new keystrokes without overwriting previous ones.
@@ -22,7 +22,7 @@ This is a simple **keylogger** application built in Python. It records keystroke
    - ⌨️ **Key combination**: Press `Ctrl + Shift + S` to stop logging.
 - ⚙️ **Creates an executable** (`.exe`) for easy deployment on Windows: No need to install Python on the target system.
 
-## 💻 Installation
+## 💻Installation
 
 ### 📦 Prerequisites
 - Python 3.6 or higher.
@@ -56,7 +56,7 @@ This is a simple **keylogger** application built in Python. It records keystroke
     3. After running the command, the .exe file will be generated inside the dist folder.
        
     
-## 🚀 Usage
+## 🚀Usage
   ### Running the Keylogger
   To start the keylogger
 
@@ -68,11 +68,11 @@ This is a simple **keylogger** application built in Python. It records keystroke
 
 
 
-## Keylogger Operation 🖥️
+## 🖥️Keylogger Operation
 
 Once the keylogger is running, it will start recording keystrokes and save them in `keylog.txt` with timestamps. Each time you run the program, it will append new keystrokes to the file.
 
-## ⏹️ Stopping the Keylogger
+## ⏹️Stopping the Keylogger
 
 You can stop the keylogger using one of the following methods:
 
@@ -80,7 +80,7 @@ You can stop the keylogger using one of the following methods:
 - **📝 Stop Command File**: Create a `stop.txt` file containing the word `stop` in the same directory as the keylogger. Once the keylogger detects this file, it will stop logging.
 
 
-## ⚖️ Ethical Considerations
+## ⚖️Ethical Considerations
 
 This tool is intended for **educational purposes only**. Always obtain explicit permission from the device owner before using any keylogger. Unauthorized use of a keylogger is illegal and unethical.
 
