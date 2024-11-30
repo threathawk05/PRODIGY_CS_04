@@ -8,9 +8,11 @@ This is a simple **keylogger** application built in Python. It records keystroke
 - [✨ Features](#features)
 - [💻 Installation](#installation)
 - [🚀 Usage](#usage)
+- [🖥️ Keylogger Operation](#keylogger-operation)
 - [⏹️ Stopping the Keylogger](#stopping-the-keylogger)
 - [⚖️ Ethical Considerations](#ethical-considerations)
 - [📄 License](#license)
+
 
 ## ✨ Features
 - 📝 **Logs keystrokes with timestamps**: Records every keystroke with the time it was pressed.
@@ -87,6 +89,11 @@ Before using this tool:
 - 🚫 Do not use this for malicious purposes.
 
 **Important**: Misuse of keyloggers may result in legal consequences, including criminal charges.
+
+## Example Image(keylog.txt file)
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/50b25b0b-9c65-49b9-99d9-42be99776560">
+
+
 
 ## 📄License
 
