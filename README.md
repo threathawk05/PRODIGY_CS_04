@@ -11,15 +11,20 @@ This is a simple **keylogger** application built in Python. It records keystroke
 - [🖥️ Keylogger Operation](#keylogger-operation)
 - [⏹️ Stopping the Keylogger](#stopping-the-keylogger)
 - [⚖️ Ethical Considerations](#ethical-considerations)
+- [📸 Example Image (keylog.txt file)](#example-image-keylogtxt-file)
 - [📄 License](#license)
 
 
 ## ✨Features
 - 📝 **Logs keystrokes with timestamps**: Records every keystroke with the time it was pressed.
+
 - 💾 **Saves keystrokes in a text file** (`keylog.txt`): All logged keystrokes are stored in a simple text file.
+
 - 🔄 **Appends new keystrokes on subsequent runs**: The log file keeps growing with new keystrokes without overwriting previous ones.
+
 - 🛑 **Stopping functionality**
    - ⌨️ **Key combination**: Press `Ctrl + Shift + S` to stop logging.
+
 - ⚙️ **Creates an executable** (`.exe`) for easy deployment on Windows: No need to install Python on the target system.
 
 ## 💻Installation
@@ -60,17 +65,16 @@ This is a simple **keylogger** application built in Python. It records keystroke
   ### Running the Keylogger
   To start the keylogger
 
-  1. Run the python script
+  -  Run the python script
      
        ```bash
         python keylogger.py
        ```
 
-
-
 ## 🖥️Keylogger Operation
 
-Once the keylogger is running, it will start recording keystrokes and save them in `keylog.txt` with timestamps. Each time you run the program, it will append new keystrokes to the file.
+-  Once the keylogger is running, it will start recording keystrokes and save them in `keylog.txt` with timestamps.
+-    Each time you run the program, it will append new keystrokes to the file.
 
 ## ⏹️Stopping the Keylogger
 
@@ -90,7 +94,7 @@ Before using this tool:
 
 **Important**: Misuse of keyloggers may result in legal consequences, including criminal charges.
 
-## Example Image(keylog.txt file)
+## 📸Example Image (keylog.txt file)
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/50b25b0b-9c65-49b9-99d9-42be99776560">
 
 
@@ -101,5 +105,4 @@ This project is open source and available under the MIT License.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Created by Amaan Khojani 👨‍💻
    
